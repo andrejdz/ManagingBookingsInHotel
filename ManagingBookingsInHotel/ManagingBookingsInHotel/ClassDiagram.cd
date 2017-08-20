@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="KSR.Client">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEgAAAAAAAAAAAAAAAAAAAAAEAAAg=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.ListClients">
+    <Position X="7.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.ListOrders">
+    <Position X="7.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ListOrders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.ListRooms">
+    <Position X="4" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ListRooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.Order">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABgAAAAAEQCEAAAQQAAAgAACEIABABAQAQAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.Program">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSR.Room">
+    <Position X="10.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAEGAAABAAAAEAAAAAAQAAAAAAAAEAAJAAAUMQAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
